@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\j\\.android\\build-cache\\e34242eeb68afd539dd6f7c8861dffd04b417bca\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\touch_bg.xml",
+        "source": "G:\\nim_demo\\uikit\\res-ptr2\\drawable-v21\\touch_bg.xml"
+    },
+    {
+        "merged": "G:\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\j\\.android\\build-cache\\e34242eeb68afd539dd6f7c8861dffd04b417bca\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "G:\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\j\\.android\\build-cache\\e34242eeb68afd539dd6f7c8861dffd04b417bca\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "G:\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\j\\.android\\build-cache\\e34242eeb68afd539dd6f7c8861dffd04b417bca\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\j\\.android\\build-cache\\e70c43a3834c86df7503b5a86903f923331d7e1f\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    }
+]
